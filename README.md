@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Andre Popov. I'm developing DeFi services for African countries in humaniq.com. My mission is to fighnt against powerty with new technologies. 
+- 👀 I’m interested in learn blockchain development because I want to understand web3 at the code level.
+- 📫 How to reach me: andredipop@protonmail.com
